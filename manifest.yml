@@ -1,6 +1,6 @@
 ---
 applications:
-- name: spring-petclinic
+- name: spring-petclinic-015
   memory: 768M
   random-route: true
   timeout: 180
